@@ -1,4 +1,4 @@
-# QGroundControl Ground Control Station
+# QGroundControl Ground Control Station (CRANC custom build)
 
 [![Releases](https://img.shields.io/github/release/mavlink/QGroundControl.svg)](https://github.com/mavlink/QGroundControl/releases)
 [![Travis Build Status](https://travis-ci.org/mavlink/qgroundcontrol.svg?branch=master)](https://travis-ci.org/mavlink/qgroundcontrol)
@@ -15,7 +15,6 @@ It provides full flight control and mission planning for any MAVLink enabled dro
 All the code is open-source, so you can contribute and evolve it as you want.
 The [Developer Guide](https://dev.qgroundcontrol.com/en/) explains how to [build](https://dev.qgroundcontrol.com/en/getting_started/) and extend QGC.
 
-
 Key Links:
 * [Website](http://qgroundcontrol.com) (qgroundcontrol.com)
 * [User Manual](https://docs.qgroundcontrol.com/en/)
@@ -23,3 +22,5 @@ Key Links:
 * [Discussion/Support](https://docs.qgroundcontrol.com/en/Support/Support.html)
 * [Contributing](https://dev.qgroundcontrol.com/en/contribute/)
 * [License](https://github.com/mavlink/qgroundcontrol/blob/master/COPYING.md)
+
+This repository is for the custom build of QGC for CRANC. Changes that are intended for pull requests to the mainline/upstream QGC should be made to https://github.com/Aber-CRANC/qgroundcontrol.
